@@ -185,14 +185,14 @@ After editing, simply re-run the notebook from Step 2 onwards. No other code cha
 
 Built by a team of students for the **HackathonPAK Angels hackathon**.
 
-| Contributor | Role |
+| Contributor | 
 |---|---|
-| **Muhammad Faseeh** | Core implementation — architecture, RAG pipeline, deterministic safety tools, Gemini integration |
-| **Atiqua Abrar** ([@PinkPanther21](https://github.com/PinkPanther21)) | Problem research, technical understanding, presentation, repository maintainer |
-| **Eman Ejaz** | Pakistani brand research, drug interaction validation, Urdu localization |
-| **Amin Khan** | openFDA data pipeline, embedding optimization, testing & QA |
-| **Noor Ul Ain** | UI/UX design, Gradio interface, user feedback integration |
-| **Hira Naseer** | Medical domain validation, red flag screening logic, documentation |
+| **Muhammad Faseeh** | 
+| **Atiqua Abrar** ([@PinkPanther21](https://github.com/PinkPanther21)) |
+| **Eman Ejaz** |
+| **Amin Khan** | 
+| **Noor Ul Ain** |
+| **Hira Naseer** | 
 
 ---
 
@@ -238,11 +238,6 @@ Found a missing Pakistani brand? Spotted an interaction we missed?
 2. Edit Step 2 of the notebook with your additions
 3. Submit a pull request with a description of the change
 
----
-
-## 📞 Questions?
-
-Open an issue on GitHub or reach out to the team. We're happy to discuss the design, validate new drugs, or help you extend MedSaathi for other regions.
 
 ---
 
