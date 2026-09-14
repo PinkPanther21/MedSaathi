@@ -185,14 +185,14 @@ After editing, simply re-run the notebook from Step 2 onwards. No other code cha
 
 Built by a team of students for the **HackathonPAK Angels hackathon**.
 
-| Contributor | 
-|---|---|
-| **Muhammad Faseeh** | 
+| Contributor |
+|---|
+| **Muhammad Faseeh** |
 | **Atiqua Abrar** ([@PinkPanther21](https://github.com/PinkPanther21)) |
 | **Eman Ejaz** |
-| **Amin Khan** | 
+| **Amin Khan** |
 | **Noor Ul Ain** |
-| **Hira Naseer** | 
+| **Hira Naseer** |
 
 ---
 
